@@ -1,0 +1,26 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+div{
+    display: grid;
+    place-items: center;
+}
+
+form{
+    display: grid;
+    place-items:left;
+    padding: 15px;
+}
+
+.controls{
+    margin-bottom: 18px;
+    margin-left: 10px;
+}
+
+.enviar{
+    margin-left: 75% !important;
+    width: 25% !important;
+}
